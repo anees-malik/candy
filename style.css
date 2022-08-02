@@ -116,7 +116,7 @@ svg {
     margin-right: 7px;
 }
 
-@media (max-width:650px)  {
+@media (max-width:650px) {
     :root {
         --marginBot: 15px;
     }
